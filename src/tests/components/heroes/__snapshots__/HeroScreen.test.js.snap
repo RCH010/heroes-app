@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests in <HeroScreen /> should display correctly with an URL argument 1`] = `
+<div
+  className="row mt-5"
+>
+  <div
+    className="col-4"
+  >
+    <img
+      alt="Iron Man"
+      className="img-thumbnail animate__animated animate__fadeInLeft"
+      src="../assets/heroes/marvel-iron.jpg"
+    />
+  </div>
+  <div
+    className="col-8"
+  >
+    <h1
+      className="h3"
+    >
+      Iron Man
+    </h1>
+    <ul
+      className="list-group list-group-flush"
+    >
+      <li
+        className="list-group-item"
+      >
+        <strong>
+          Alter ego:
+        </strong>
+         
+        Tony Stark
+      </li>
+      <li
+        className="list-group-item"
+      >
+        <strong>
+          Publisher:
+        </strong>
+         
+        Marvel Comics
+      </li>
+      <li
+        className="list-group-item"
+      >
+        <strong>
+          First Appearance:
+        </strong>
+         
+        Tales of Suspense #39
+      </li>
+    </ul>
+    <h2
+      className="h4"
+    >
+      Characters
+    </h2>
+    <p
+      className="px-3"
+    >
+      Tony Stark
+    </p>
+    <button
+      className="btn btn-outline-info"
+      onClick={[Function]}
+    >
+      Return
+    </button>
+  </div>
+</div>
+`;

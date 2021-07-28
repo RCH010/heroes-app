@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests in LoginScreen should display correctly 1`] = `
+<div
+  className="container mt-5"
+>
+  <h1>
+    Login Screen
+  </h1>
+  <br />
+  <button
+    className="btn btn-primary"
+    onClick={[Function]}
+  >
+    Login
+  </button>
+</div>
+`;
